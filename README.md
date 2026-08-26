@@ -62,19 +62,11 @@ A simple way to understand the business is:
 
 **Customer**
 
-The company is trying to participate in several of these stages.
-
-This is important because a company that only farms shrimp depends heavily on farming conditions and shrimp prices.
-
 By also processing, exporting and selling seafood products, Kings Infra has the opportunity to earn from different parts of the value chain.
 
 ## Where Does Kings Infra Operate?
 
-The company has its roots in aquaculture and operates shrimp farming activities in Tamil Nadu.
-
-It also has seafood processing and export operations, with customers and markets outside India.
-
-The company has been expanding its presence in areas such as domestic retail and technology-supported aquaculture.
+Kings Infra began with aquaculture and shrimp farming in Tamil Nadu. It has expanded into seafood processing, exports, domestic retail and technology-supported aquaculture.
 
 ## My Understanding of the Business
 
@@ -91,9 +83,10 @@ Kings Infra earns money from different parts of the seafood value chain.
 The main areas are:
 
 1. Aquaculture
-2. Seafood processing and exports
-3. Domestic seafood products and retail
-4. Other aquaculture-related activities
+2. Seafood Processing and Exports
+3. Domestic Seafood Products and Retail
+4. SISTA360 and Technology-Based Aquaculture
+5. Land Monetisation and Property Activities
 
 ---
 
@@ -114,16 +107,7 @@ Farming Cost
        =
 Profit
 ```
-The cost of farming includes:
-
-- Shrimp seed
-- Feed
-- Electricity
-- Labour
-- Medicines and other farm inputs
-- Farm maintenance
-
-This means profitability depends on two important factors:
+Profitability depends on two important factors:
 
 **How much shrimp the company produces**
 
@@ -137,22 +121,9 @@ This part of the business is also exposed to risks such as disease, weather and 
 
 ## B. Seafood Processing and Exports
 
-Kings Infra also processes seafood and sells it in international markets.
+Kings Infra processes seafood and exports it to international markets.
 
-Processing can include:
-
-- Cleaning
-- Sorting
-- Cutting
-- Freezing
-- Packaging
-- Preparing products according to customer requirements
-
-Processing allows the company to add value to the seafood before selling it.
-
-The company also exports seafood to international markets.
-
-Exports provide access to customers outside India, but they also expose the company to additional risks:
+Exports provide access to customers outside India, but also expose the company to risks such as:
 
 - International seafood prices
 - Currency movements
@@ -180,23 +151,21 @@ However, I would currently consider this a **growth opportunity**, rather than a
 
 ---
 
-## D. Other Aquaculture-Related Activities
+## D. SISTA360 and Technology-Based Aquaculture
 
-Kings Infra also has activities related to supporting the wider aquaculture industry.
+Kings Infra has also developed **SISTA360 (System for Integrated, Sustainable & Traceable Aquaculture360)**, a technology platform for the aquaculture industry.
 
-These include aquaculture-related products, technology and services aimed at helping farmers improve production and manage their farms.
+The platform is designed to help aquafarmers improve production, reduce costs and make their farming more sustainable and traceable.
 
-These activities are interesting because they could allow the company to earn from the wider aquaculture ecosystem rather than only from its own farms.
+Kings Infra is also using SISTA360 protocols in its own aquaculture operations and providing training to aquafarmers.
 
-However, I would not give these activities too much weight in the investment case until their financial contribution becomes clearer.      
+I see SISTA360 as a potential growth opportunity, but it is not yet a major part of my investment case compared with the company's core aquaculture, processing and export businesses.
 
 ---
 
 ## E. Land Monetisation
 
 Land monetisation is another source of value for Kings Infra.
-
-The company owns land and other real-estate assets, and it is already taking steps to monetise some of these assets.
 
 The company has stated that it owns around **126 acres of land in Tuticorin**, which is being developed through its subsidiary, Kings Maritech Eco Park Limited.
 
