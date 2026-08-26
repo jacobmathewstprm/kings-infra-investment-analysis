@@ -420,32 +420,7 @@ The key question is whether Kings Infra can return to growth while maintaining p
 
 For a long-term investor, I consider the weaker quarter a risk, but not enough to cancel the investment case.
 
-> **My view:** The short-term slowdown increases the risk, but I believe the long-term growth potential still justifies a BUY decision at the current valuation.
-## What Has Happened to the Share Price?
-
-The company's business performance and its share price have moved in very different directions.
-
-FY2025–26 produced strong financial results.
-
-However, the share price has fallen significantly during 2026.
-
-The stock traded at around **₹178 at its 52-week high** and fell to around **₹85 at its 52-week low** in August 2026.
-
-This is a decline of more than 50% from the 52-week high.
-
-This makes the valuation question particularly important.
-
-A falling share price does not automatically mean that a stock has become cheap.
-
-The important question is:
-
-> **Has the business become less valuable, or has the market simply reduced the price it is willing to pay for the business?**
-
----
-
-**"The company is growing strongly, so the stock is attractive."**
-
-The more important question is whether Kings Infra can return to growth while also controlling debt and improving cash generation.
+The weaker quarter increases the risk and is therefore an important factor in the final investment decision.
 
 ---
 
@@ -561,7 +536,6 @@ There are both positive and negative points in the financial picture.
 - FY2025–26 revenue and profit grew strongly.
 - Operating cash flow became positive.
 - Cash balance improved.
-- Return on capital remains reasonably strong.
 
 ### Negative
 
@@ -616,7 +590,7 @@ The company now needs to prove that this combination can consistently generate s
 
 The share price has fallen significantly during 2026.
 
-The stock reached a 52-week high of around **₹178** and later fell to around **₹85**, which is close to its current range. :contentReference[oaicite:2]{index=2}
+The stock reached a 52-week high of around **₹178** and later fell to around **₹85**, which is close to its current range.
 
 A fall of this size does not automatically mean that the stock has become cheap.
 
@@ -633,7 +607,7 @@ Compared with Q1 FY2025–26:
 - Profit after tax fell by about 38%
 - Operating margin also declined
 
-This raised concerns about whether the strong FY2025–26 growth can continue at the same pace. :contentReference[oaicite:3]{index=3}
+This raised concerns about whether the strong FY2025–26 growth can continue at the same pace.
 
 ### 2. Higher Debt
 
@@ -673,7 +647,7 @@ The weaker Q1 FY2026–27 results are a more direct company-specific concern.
 
 # 9. Valuation
 
-At around ₹90 per share, Kings Infra is trading at a much lower price than its 52-week high.
+At around ₹85–₹90 per share, Kings Infra is trading at a much lower price than its 52-week high.
 
 The FY2025–26 earnings per share (EPS) were approximately:
 
@@ -703,7 +677,6 @@ Kings Infra has several opportunities to grow over the next few years:
 - SISTA360 and technology-based aquaculture
 - Export market diversification
 - Monetization of land and property assets
-- 
 If these plans are executed successfully, the company could become significantly larger.
 
 The main risks are rising debt, the weaker start to FY2026–27, seafood industry risks and the need for newer businesses to prove their profitability.
