@@ -418,8 +418,6 @@ The result can be affected by:
 
 The key question is whether Kings Infra can return to growth while maintaining profitability and controlling debt.
 
-For a long-term investor, I consider the weaker quarter a risk, but not enough to cancel the investment case.
-
 The weaker quarter increases the risk and is therefore an important factor in the final investment decision.
 
 ---
@@ -677,6 +675,7 @@ Kings Infra has several opportunities to grow over the next few years:
 - SISTA360 and technology-based aquaculture
 - Export market diversification
 - Monetization of land and property assets
+  
 If these plans are executed successfully, the company could become significantly larger.
 
 The main risks are rising debt, the weaker start to FY2026–27, seafood industry risks and the need for newer businesses to prove their profitability.
