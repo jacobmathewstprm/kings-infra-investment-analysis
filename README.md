@@ -620,22 +620,12 @@ The company does not necessarily have a debt problem today.
 But it needs to prove that the additional borrowing is being converted into higher and more sustainable profits.
 
 ---
-## What This Means for My Investment Decision
 
-The company has demonstrated strong growth and improved its operating cash flow.
+Therefore, I consider **debt and cash generation the biggest financial issues in the investment case**.
 
-However, debt has increased substantially, and the latest quarter showed weaker revenue and profit.
+The company does not necessarily have a debt problem today.
 
-This means the company has **good growth potential, but also meaningful financial risk**.
-
-For my final investment decision, I will therefore consider four things together:
-
-- Business growth
-- Cash generation
-- Debt
-- Current share price
-
-The final question is simple:
+But it needs to prove that the additional borrowing is being converted into higher and more sustainable profits.
 
 > **At the current market price, does the potential return justify the risks?**
 
@@ -758,11 +748,11 @@ The current market valuation is therefore roughly in the **low-to-mid teens P/E 
 
 I do not consider this an extremely expensive valuation.
 
-However, I also do not consider it cheap enough to ignore the risks.
+However, I do not consider this an extremely expensive valuation.
 
-The important point is that the stock price has fallen while the company's latest quarterly earnings have also weakened.
+More importantly, after the significant fall in the share price, I believe the current valuation is reasonable relative to the company's long-term growth potential.
 
-Therefore, the lower share price does not automatically create a strong buying opportunity.
+However, the risks should not be ignored.
 
 ---
 
@@ -912,22 +902,6 @@ I believe the company has a reasonable opportunity to become significantly large
 The investment is not risk-free, and future growth is not guaranteed.
 
 However, at the current valuation, I believe the potential long-term reward is sufficient to justify the risks.
-
-## Final Verdict
-
-| Factor | My View |
-|---|---|
-| Business | 🟢 Interesting |
-| Industry | 🟢 Attractive but risky |
-| Growth Potential | 🟢 Strong |
-| FY2025–26 Performance | 🟢 Strong |
-| Q1 FY2026–27 | 🔴 Weak |
-| Cash Flow | 🟡 Improving |
-| Debt | 🟠 Needs attention |
-| Competition | 🟡 Challenging |
-| Valuation | 🟢 Reasonable |
-| Long-Term Potential | 🟢 Attractive |
-| **Final Decision** | **🟢 BUY FOR LONG TERM** |
 
 ## In One Sentence
 
