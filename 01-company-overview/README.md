@@ -14,14 +14,13 @@ The company's strategy is built around increasing its participation across the v
 
 Key Facts
 
-Particular| Details
-Company| Kings Infra Ventures Limited
-BSE Code| 530215
-Headquarters| Kochi, Kerala
-Core Industry| Aquaculture & Seafood
-Key Areas| Farming, Processing, Exports, Retail & Infrastructure
-Listed On| BSE
-Business Roots| Aquaculture
+- Company: Kings Infra Ventures Limited
+- BSE Code: 530215
+- Headquarters: Kochi, Kerala
+- Core Industry: Aquaculture & Seafood
+- Key Areas: Farming, Processing, Exports, Retail & Infrastructure
+- Listed On: BSE
+- Business Roots: Aquaculture
 
 ---
 
