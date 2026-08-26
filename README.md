@@ -235,21 +235,15 @@ This means that changes in the U.S. market can have a significant effect on Indi
 
 ## U.S. Tariff Changes
 
-One important development for the Indian seafood industry has been changes in U.S. import tariffs.
+Changes in U.S. tariffs are an important issue for Indian seafood exporters because the U.S. is a major market for Indian seafood.
 
-During 2025, the U.S. announced significantly higher tariffs on imports from India.
+During 2025, the U.S. imposed higher tariffs on Indian goods, including an additional 25% tariff linked to India's purchases of Russian oil.
 
-This created uncertainty for Indian exporters because higher tariffs can make Indian products more expensive for American buyers.
+In February 2026, the U.S. and India announced a trade framework that included an 18% reciprocal tariff rate. The separate 25% Russia-oil-related tariff was also removed.
 
-The situation changed again in February 2026.
+However, the tariff situation changed again later in 2026 following legal and policy changes in the United States. Additional U.S. tariff measures affecting Indian imports have since been introduced.
 
-Under the U.S.-India trade framework, the U.S. agreed to reduce the reciprocal tariff on Indian goods from **25% to 18%**.
-
-The U.S. also removed an additional **25% tariff** that had been imposed on Indian goods in connection with India's purchases of Russian oil. 
-
-Therefore, the current situation is better than the worst-case scenario that existed during 2025.
-
-However, tariffs remain an important factor for Indian seafood exporters.
+Therefore, U.S. tariffs remain an important risk for Indian seafood exporters, even though the extreme tariff situation seen in 2025 has changed.
 
 ---
 
