@@ -156,87 +156,83 @@ However, this is still something I would consider a growth opportunity, rather t
 
 ---
 
-3. Technology-Based Aquaculture
+# 3. Technology-Based Aquaculture
 
-I have deliberately avoided using complicated terms such as "BlueTech" in this report.
+Kings Infra is also working on improving aquaculture through technology.
 
-What Kings Infra is trying to do here is much easier to explain.
+The basic idea is to use better monitoring, controlled farming conditions, data and modern farming methods to make shrimp production more predictable and efficient.
 
-The company is exploring the use of technology, controlled environments, monitoring systems and data to improve aquaculture.
+The company aims to improve areas such as:
 
-The idea is to make shrimp farming:
+- Production
+- Use of water and other resources
+- Monitoring of shrimp health
+- Farming efficiency
+- Consistency of production
 
-- More predictable
-- More productive
-- Less dependent on weather
-- Easier to monitor
-- More efficient
+This could become an important growth opportunity if the company can successfully use these methods on a larger scale.
 
-Traditional farming can look like this:
+However, I would not treat this as a major source of profit yet.
 
-Outdoor Farm
-     ↓
-Weather + Disease + Other Conditions
-     ↓
-Variable Production
+The important question is:
 
-Technology-based farming aims for:
+> Can the company turn these technology investments into higher production and higher profits?
 
-Controlled Environment
-        ↓
-Monitoring + Data + Technology
-        ↓
-Better Control
-        ↓
-Potentially Higher Production
-
-This sounds promising.
-
-But there is an important point:
-
-«Technology itself is not the investment case.»
-
-The technology has to make money.
-
-We therefore need to see whether these projects can generate enough profit compared with the money invested in them.
+Until there is enough financial evidence, I consider this a **future growth opportunity rather than an established part of the investment case**.
 
 ---
 
-4. Why Could Kings Infra Grow?
+# 4. Important Industry Development: U.S. Tariffs
 
-I see several possible growth opportunities.
+One important issue for the Indian shrimp industry is the change in U.S. import tariffs.
 
-More Aquaculture
+The United States is one of the largest markets for Indian seafood. In FY2025–26, the U.S. remained India's largest seafood export market, while frozen shrimp was the country's biggest seafood export product. 3
 
-If the company can increase production while maintaining good productivity, revenue could grow.
+This makes changes in U.S. tariffs important for Indian shrimp exporters.
 
-More Processing
+During 2025, the U.S. introduced significantly higher tariffs on Indian goods, creating uncertainty for the Indian seafood industry.
 
-More processing can allow the company to sell higher-value products.
+The situation changed again in 2026. A U.S.-India trade agreement announced in February 2026 set an 18% reciprocal tariff rate for Indian goods, while additional U.S. tariff measures were introduced later in 2026. 4
 
-Export Growth
+Therefore, the effect of U.S. tariffs on Indian seafood companies needs to be watched carefully.
 
-A recovery or increase in global seafood demand could help.
+## How Could This Affect Kings Infra?
 
-Domestic Market
+Higher import costs in the U.S. can create pressure in several ways.
 
-India's growing demand for convenient and processed food could create opportunities for the company's retail products.
+For example:
 
-Technology
+**Higher tariff → Higher cost for U.S. buyer → Pressure on selling price → Possible pressure on exporter margins**
 
-If technology-based farming works at a larger scale, it could potentially improve productivity.
+The actual effect depends on how the additional cost is shared between the U.S. importer and the Indian exporter.
+
+However, there is an important point in Kings Infra's case.
+
+The company has indicated that it is not heavily dependent on the U.S. market and has exposure to other markets, including Europe and Southeast Asia. This gives it some protection compared with an exporter that depends heavily on U.S. sales. 5
+
+### My view
+
+I consider U.S. tariffs a **risk to the industry**, but not necessarily a reason by itself to avoid Kings Infra.
+
+The company should continue diversifying its export markets so that it does not become too dependent on any one country.
+
+This is something I would monitor in future results.
 
 ---
 
-5. Industry
+# 5. Industry
 
 Kings Infra operates in the seafood and aquaculture industry.
 
 There is a long-term reason to like this industry:
 
-People need food and protein.
+**People need food and protein.**
 
-Seafood is an important source of protein, and India is also an important seafood-producing and exporting country.
+Seafood is an important source of protein, and India is a major seafood-producing and exporting country.
+
+India's seafood exports reached a record **₹73,890 crore in FY2025–26**. Frozen shrimp accounted for around **66.5% of seafood export earnings in U.S. dollar terms**. 6
+
+This shows that the overall industry is large and has significant international demand.
 
 However, this is not a simple or risk-free industry.
 
@@ -249,10 +245,9 @@ The company can be affected by:
 - International demand
 - Export regulations
 - Currency movements
+- U.S. tariffs and other trade restrictions
 
 So even if the long-term industry opportunity is good, individual years can still be difficult.
-
----
 
 6. Competition
 
