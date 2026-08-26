@@ -998,24 +998,60 @@ If these improvements happen while the share price remains at a reasonable valua
 
 # Conclusion
 
-Kings Infra is an interesting small company with genuine long-term growth potential.
+Kings Infra is a small company with meaningful long-term growth potential.
 
-FY2025–26 showed that the company can grow revenue and profit while maintaining healthy operating margins.
+FY2025–26 showed strong revenue and profit growth, while the company maintained a healthy operating margin and improved its operating cash flow.
 
-However, the beginning of FY2026–27 has been weaker.
+The beginning of FY2026–27 has been weaker, and the increase in debt is an important risk. The seafood industry is also exposed to factors such as disease, weather, prices, exports and tariffs.
 
-At the same time, debt has increased substantially and cash generation still needs to improve.
+However, the sharp fall in the share price has brought the valuation down to a more reasonable level.
 
-The large fall in the share price has made the valuation more reasonable, but I do not think the stock has become cheap enough to compensate for the current uncertainty.
+The company also has several potential growth drivers:
 
-Therefore, my final decision is:
+- Expansion of aquaculture
+- Seafood processing and value-added products
+- Export growth
+- Domestic seafood retail
+- Technology-based aquaculture
+- Land monetisation
+- Expansion across the seafood value chain
 
-> **🟠 DON'T BUY AT THE CURRENT PRICE.**
+After considering the company's growth potential, financial performance, risks, debt and current valuation, my final view is:
 
-I would keep Kings Infra on my long-term watchlist rather than completely rejecting the company.
+> 🟢 **BUY FOR THE LONG TERM**
 
-If the company proves that it can return to strong growth, control its debt and generate stronger cash flow, I would be willing to reconsider the investment.
+I would consider Kings Infra suitable for an investor who is willing to hold the stock for several years and accept the higher risk that comes with a small company.
 
-### In one sentence:
+I would **not** consider it a short-term trading opportunity because the recent slowdown in earnings and higher debt can cause significant volatility.
 
-> **Kings Infra has a promising long-term story, but I would wait for stronger evidence of sustainable growth, cash generation and debt control before becoming a shareholder.**
+### Why I Would Buy for the Long Term
+
+The main reason is the combination of:
+
+**Strong past growth + multiple growth opportunities + a much lower valuation than the previous market price.**
+
+I believe the company has a reasonable opportunity to become significantly larger if management successfully executes its expansion plans.
+
+The investment is not risk-free, and future growth is not guaranteed.
+
+However, at the current valuation, I believe the potential long-term reward is sufficient to justify the risks.
+
+## Final Verdict
+
+| Factor | My View |
+|---|---|
+| Business | 🟢 Interesting |
+| Industry | 🟢 Attractive but risky |
+| Growth Potential | 🟢 Strong |
+| FY2025–26 Performance | 🟢 Strong |
+| Q1 FY2026–27 | 🔴 Weak |
+| Cash Flow | 🟡 Improving |
+| Debt | 🟠 Needs attention |
+| Competition | 🟡 Challenging |
+| Valuation | 🟢 Reasonable |
+| Long-Term Potential | 🟢 Attractive |
+| **Final Decision** | **🟢 BUY FOR LONG TERM** |
+
+## In One Sentence
+
+> **Kings Infra has strong long-term growth potential, and after the recent fall in its share price, I believe the current valuation offers enough potential reward to justify the risks for a long-term investor.**
