@@ -50,17 +50,17 @@ Kings Infra's activities include:
 - Technology-based aquaculture
 - Other infrastructure-related activities
 
-The company's business can be understood like this:
+The company's business can be understood as a simple value chain:
 
-Shrimp Farming
-       ↓
-Seafood Processing
-       ↓
-Export / Domestic Sales
-       ↓
-Customer
+**Shrimp Farming**  
+↓  
+**Seafood Processing**  
+↓  
+**Export / Domestic Sales**  
+↓  
+**Customer**
 
-The company is trying to participate in more stages of this process instead of depending on only one activity.
+The company is trying to participate in more stages of this value chain instead of depending on only one activity.
 
 ---
 
