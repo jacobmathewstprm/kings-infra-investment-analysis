@@ -27,38 +27,6 @@ The purpose of this project is to understand the company from an investor's poin
 **Research Status:** Completed
 
 ---
-# My Investment View
-
-## 🟡 HOLD / WAIT
-
-After studying Kings Infra's business, financial performance, debt, cash flow, growth opportunities and valuation, my current view is **HOLD / WAIT**.
-
-I believe Kings Infra is an interesting small-cap company with strong long-term potential. However, I do not think the current situation gives enough confidence to recommend an aggressive BUY.
-
-### Why I Like the Company
-
-- Strong revenue and profit growth in FY2026
-- Healthy operating margins
-- Improving cash flow
-- Multiple growth opportunities across the seafood value chain
-
-### Why I Am Still Cautious
-
-- Debt has increased significantly over the last few years.
-- Cash flow is improving but is still lower than reported profit.
-- The business is exposed to seafood prices, exports and industry risks.
-- Some expansion projects still need to prove they can generate attractive returns.
-
-### What Would Make Me More Positive?
-
-I would become more confident if the company continues to:
-
-- Control debt
-- Improve cash generation
-- Maintain strong profitability
-- Successfully execute its expansion projects
-
-> **My conclusion:** Kings Infra is a company worth watching closely, but I would wait for stronger financial evidence before becoming a buyer.
 
 # 1. What Does Kings Infra Do?
 
@@ -502,26 +470,28 @@ The company reported its results for the quarter ended **30 June 2026**.
 
 The company therefore started FY2026–27 with lower revenue and lower profit compared with the same quarter of the previous year.
 
-### Why This Matters
+## Why This Matters
 
-This does not mean that the company's long-term growth story is over.
+The weaker start to FY2026–27 is an important point to consider, but I do not think one weaker quarter is enough to change the long-term investment view.
 
-One quarter can be affected by factors such as:
+Quarterly results can be affected by factors such as:
 
 - Seafood export volumes
 - Selling prices
 - Seasonal conditions
 - Production levels
 - International demand
+- Trade conditions and tariffs
 
-However, it does mean that I should **not assume that the 30% revenue growth achieved in FY2025–26 will continue automatically**.
+The important question is whether the company can return to growth while maintaining profitability and controlling its debt.
 
-This is one of the main reasons I prefer a **HOLD / WAIT** view rather than an aggressive BUY.
+FY2025–26 showed that Kings Infra can grow revenue and profit strongly. The weaker start to FY2026–27 therefore needs to be viewed alongside the company's longer-term performance and growth plans.
 
-The next few quarters will be important in determining whether the FY2025–26 growth was the beginning of a longer growth trend or simply an unusually strong year.
+For a long-term investor, I consider the current weakness a risk, but not enough to cancel the investment case.
 
----
+The key reason I am still positive is that the recent fall in the share price has made the valuation more reasonable while the company continues to have several potential growth opportunities.
 
+> **My view:** The short-term slowdown increases the risk, but I believe the long-term growth potential still justifies a BUY decision at the current valuation.
 ## What Has Happened to the Share Price?
 
 The company's business performance and its share price have moved in very different directions.
