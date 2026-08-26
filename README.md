@@ -41,8 +41,8 @@ Its main activities include:
 - Seafood exports
 - Domestic seafood products and retail
 - Technology-supported aquaculture
-- Aquaculture-related services
-- Food and infrastructure-related activities
+- Aquaculture-related products and services
+- Land and property development activities
 
 ## The Business in Simple Terms
 
