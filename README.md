@@ -530,7 +530,7 @@ FY2025–26 produced strong financial results.
 
 However, the share price has fallen significantly during 2026.
 
-The stock traded at around **₹178 at its 52-week high** and fell to around **₹85 at its 52-week low** in August 2026. :contentReference[oaicite:3]{index=3}
+The stock traded at around **₹178 at its 52-week high** and fell to around **₹85 at its 52-week low** in August 2026.
 
 This is a decline of more than 50% from the 52-week high.
 
@@ -564,4 +564,458 @@ Therefore, I think the current situation is more balanced than simply saying:
 
 The more important question is whether Kings Infra can return to growth while also controlling debt and improving cash generation.
 
-For this reason, I want to look carefully at **cash flow and debt before making a final investment decision.**
+For this reason, cash flow and debt are important parts of my investment decision.
+
+---
+
+# 5. Cash Flow and Debt
+
+Strong profit growth is encouraging, but profit alone does not tell us whether a company is financially strong.
+
+I therefore looked at two other areas:
+
+- Cash flow
+- Debt
+
+These are particularly important for Kings Infra because the company has been expanding and has taken on more borrowing.
+
+## Cash Flow
+
+Cash flow tells us how much actual cash the business generates.
+
+This is different from accounting profit.
+
+A company can report a profit but still have less cash available because money may be tied up in inventory, customer payments or expansion.
+
+Kings Infra's operating cash flow improved significantly in FY2025–26.
+
+| Metric | FY2024–25 | FY2025–26 |
+|---|---:|---:|
+| Profit Before Tax | ₹17.48 Cr | ₹21.72 Cr |
+| Operating Cash Flow | -₹4.33 Cr | ₹8.21 Cr |
+| Investing Cash Flow | -₹16.19 Cr | -₹5.10 Cr |
+| Financing Cash Flow | ₹18.01 Cr | ₹10.10 Cr |
+| Closing Cash Balance | ₹0.16 Cr | ₹13.37 Cr |
+
+The improvement in operating cash flow is a positive sign.
+
+The company moved from **negative operating cash flow in FY2024–25 to positive operating cash flow in FY2025–26**.
+
+However, ₹8.21 crore of operating cash flow was still below the company's reported profit.
+
+This means the company has improved its cash generation, but I would like to see a more consistent conversion of profit into cash.
+
+---
+
+## Debt
+
+Debt is a more important concern.
+
+Kings Infra's total debt has increased significantly over the last few years.
+
+| Financial Year | Approx. Total Debt |
+|---|---:|
+| FY2022–23 | ₹22.6 Cr |
+| FY2023–24 | ₹37.5 Cr |
+| FY2024–25 | ₹60.4 Cr |
+| FY2025–26 | ₹78.5 Cr |
+
+The increase in borrowing has been substantial.
+
+At the same time, the company has been investing in expansion and new initiatives.
+
+Borrowing is not automatically a bad thing.
+
+Debt can create value if the money is invested in projects that generate returns higher than the cost of borrowing.
+
+The concern is whether the company can generate enough additional profit and cash from these investments.
+
+---
+
+## Debt vs Cash
+
+At the end of FY2025–26, the company had approximately **₹78.5 crore of total debt** and around **₹13.4 crore of cash and cash equivalents**.
+
+This means the company had significantly more debt than cash.
+
+In simple terms:
+
+**Debt ≈ ₹78.5 Cr**
+
+**Cash ≈ ₹13.4 Cr**
+
+So the company cannot be considered debt-free.
+
+This is one of the main reasons I am cautious about the stock.
+
+---
+
+## Why Debt Matters More Now
+
+The company is trying to grow several businesses at the same time.
+
+These include:
+
+- Aquaculture
+- Seafood processing
+- Exports
+- Domestic retail
+- Technology-supported farming
+- Infrastructure and land development
+
+Growth requires capital.
+
+If the company continues borrowing heavily, it needs its new investments to generate enough returns.
+
+Otherwise, debt can become a burden on future profits and cash flow.
+
+This is especially important because Q1 FY2026–27 has already shown a decline in revenue and profit compared with the previous year.
+
+---
+
+## My Interpretation
+
+There are two sides to the financial picture.
+
+### Positive
+
+- FY2025–26 revenue and profit grew strongly.
+- Operating cash flow became positive.
+- Cash balance improved.
+- Return on capital remains reasonably strong.
+
+### Negative
+
+- Debt has increased substantially.
+- Cash is much lower than total debt.
+- Operating cash flow is still below reported profit.
+- Q1 FY2026–27 showed weaker revenue and profit.
+
+Therefore, I consider **debt and cash generation the biggest financial issues in the investment case**.
+
+The company does not necessarily have a debt problem today.
+
+But it needs to prove that the additional borrowing is being converted into higher and more sustainable profits.
+
+---
+## What This Means for My Investment Decision
+
+The company has demonstrated strong growth and improved its operating cash flow.
+
+However, debt has increased substantially, and the latest quarter showed weaker revenue and profit.
+
+This means the company has **good growth potential, but also meaningful financial risk**.
+
+For my final investment decision, I will therefore consider four things together:
+
+- Business growth
+- Cash generation
+- Debt
+- Current share price
+
+The final question is simple:
+
+> **At the current market price, does the potential return justify the risks?**
+
+My final decision will be based on this comparison.
+
+---
+
+# 6. Competition
+
+Kings Infra operates in a competitive seafood and aquaculture industry.
+
+A useful peer for comparison is Avanti Feeds, which operates on a much larger scale.
+
+| Factor | Kings Infra | Larger Competitors |
+|---|---|---|
+| Company size | Smaller | Much larger |
+| Aquaculture | Yes | Yes |
+| Seafood processing | Yes | Yes |
+| Exports | Yes | Yes |
+| Domestic products | Growing | More established |
+| Financial flexibility | Lower | Generally higher |
+| Execution risk | Higher | Lower |
+
+Kings Infra's smaller size can work in its favour if the company grows successfully, because even moderate expansion can have a meaningful effect on its earnings.
+
+However, its smaller size also means:
+
+- Less scale
+- Lower financial flexibility
+- Greater earnings volatility
+- Higher execution risk
+- Greater share-price volatility
+
+I do not think Kings Infra has yet proved that it has a strong competitive advantage that cannot easily be copied.
+
+Its potential advantage comes from combining:
+
+**Aquaculture + Processing + Exports + Consumer Products + Land Assets**
+
+The company now needs to prove that this combination can consistently generate strong returns.
+
+---
+
+# 7. Why Has the Share Price Fallen?
+
+The share price has fallen significantly during 2026.
+
+The stock reached a 52-week high of around **₹178** and has recently traded close to **₹90**, with the 52-week low around **₹85**.
+
+A fall of this size does not automatically mean that the stock has become cheap.
+
+I see three likely reasons for the decline.
+
+### 1. Weaker Q1 FY2026–27 Results
+
+The most important recent fundamental development was the June 2026 quarter.
+
+Compared with Q1 FY2025–26:
+
+- Revenue fell by about 11%
+- Operating profit fell by about 26%
+- Profit after tax fell by about 38%
+- Operating margin also declined
+
+This raised concerns that the very strong FY2025–26 growth may not continue at the same rate.
+
+### 2. Higher Debt
+
+Kings Infra's debt has increased substantially over the last few years.
+
+Higher debt is manageable when the company is generating strong and growing profits and cash.
+
+However, when quarterly earnings weaken, investors may become more cautious about a company carrying significant debt.
+
+### 3. Market Sentiment
+
+Kings Infra is a relatively small company.
+
+Small companies can experience large share-price movements when investor sentiment changes.
+
+Therefore, I would not attribute the entire fall to one single event.
+
+The recent earnings slowdown, higher debt and general market sentiment appear to be more important factors.
+
+---
+
+# 8. Did U.S. Tariffs Cause the Fall?
+
+U.S. tariffs are an important risk for the Indian seafood industry.
+
+However, I do not think it is correct to say that U.S. tariffs alone caused the fall in Kings Infra's share price.
+
+Kings Infra had previously stated that the U.S. accounted for only about **4.3% of its turnover** and that the company was focusing on markets such as Europe and Southeast Asia.
+
+Therefore:
+
+**U.S. tariffs = important industry risk**
+
+but
+
+**U.S. tariffs alone = unlikely to explain the entire share-price decline.**
+
+The weaker Q1 FY2026–27 results are a more direct company-specific concern.
+
+---
+
+# 9. Valuation
+
+At around ₹90 per share, Kings Infra is trading at a much lower price than its 52-week high.
+
+The FY2025–26 earnings per share (EPS) were approximately:
+
+**₹6.68**
+
+At a share price of ₹90:
+
+**₹90 ÷ ₹6.68 ≈ 13.5 times earnings**
+
+The current market valuation is therefore roughly in the **low-to-mid teens P/E range**, depending on the price and earnings period used.
+
+I do not consider this an extremely expensive valuation.
+
+However, I also do not consider it cheap enough to ignore the risks.
+
+The important point is that the stock price has fallen while the company's latest quarterly earnings have also weakened.
+
+Therefore, the lower share price does not automatically create a strong buying opportunity.
+
+---
+
+# 10. Long-Term Investment Possibility
+
+The **DON'T BUY** decision does not mean that I think Kings Infra has no long-term potential.
+
+The company has several opportunities that could make the business significantly larger over the next few years:
+
+- Expansion of aquaculture
+- Growth in seafood processing
+- Higher-value seafood products
+- Domestic retail
+- Technology-supported aquaculture
+- Export market diversification
+- Monetisation of land and other assets
+
+If management executes these plans successfully, the company could generate substantially higher revenue and profit in the future.
+
+However, future growth should not be treated as guaranteed.
+
+The company still needs to prove that these opportunities can generate attractive returns without creating excessive debt.
+
+### My Long-Term View
+
+I therefore separate two questions:
+
+**Does Kings Infra have long-term potential?**
+
+Yes.
+
+**Would I buy the stock today?**
+
+No.
+
+I would keep the company on my long-term watchlist and reconsider it if the financial performance improves.
+
+---
+
+# 11. Risk vs Reward
+
+At the current valuation, I see the investment like this.
+
+### What I Like
+
+- Strong FY2025–26 growth
+- Good operating margins
+- Improving operating cash flow
+- Attractive long-term seafood industry
+- Multiple growth opportunities
+- Land assets that can potentially be monetised
+- Much lower share price than the 52-week high
+
+### What Concerns Me
+
+- Weaker Q1 FY2026–27 results
+- Significant increase in debt
+- Cash generation still below reported profit
+- Seafood price volatility
+- Aquaculture disease and weather risks
+- Export and tariff risks
+- Small company size
+- New businesses still need to prove their profitability
+
+The potential upside is real, but the risks are also meaningful.
+
+---
+
+# 12. Final Investment Decision
+
+## 🟠 DON'T BUY AT THE CURRENT PRICE
+
+After considering the business, financial performance, cash flow, debt, industry risks, competition, recent quarterly results and valuation, my final decision is:
+
+> **I would not buy Kings Infra at the current price.**
+
+This does **not** mean that Kings Infra is a bad company.
+
+The company has many attractive qualities.
+
+The problem is that I do not think there is enough margin of safety at the moment.
+
+### The Main Reasons
+
+**1. FY2025–26 was strong, but Q1 FY2026–27 was weaker.**
+
+The latest quarter showed lower revenue and significantly lower profit compared with the same quarter last year.
+
+**2. Debt has increased substantially.**
+
+The company is using more borrowed money while several expansion plans are still being developed.
+
+**3. Cash generation needs to improve further.**
+
+Operating cash flow became positive, which is encouraging, but it is still below reported profit.
+
+**4. The company is relatively small.**
+
+This increases execution risk and can result in greater earnings and share-price volatility.
+
+**5. Several future growth opportunities are still unproven.**
+
+Processing, retail, technology-based aquaculture and other expansion plans could create value, but they need to demonstrate strong and sustainable returns.
+
+**6. The lower share price is not enough by itself.**
+
+A stock falling from ₹178 to around ₹90 may look cheap compared with its previous price.
+
+But the correct question is not:
+
+> "How much has the stock fallen?"
+
+It is:
+
+> "Is the current price attractive compared with the company's future earnings and risks?"
+
+At the moment, my answer is **not enough to justify buying**.
+
+---
+
+# 13. What Could Change My Decision?
+
+My decision could change if Kings Infra starts showing:
+
+- Revenue growth returning
+- Profit growth returning
+- Stronger operating cash flow
+- Better conversion of profit into cash
+- Debt remaining under control
+- Strong returns from new investments
+- Successful expansion of its higher-value businesses
+
+If these improvements happen while the share price remains at a reasonable valuation, the investment case would become much stronger.
+
+---
+
+# Final Verdict
+
+| Area | My View |
+|---|---|
+| Business | 🟢 Interesting |
+| Industry | 🟢 Attractive but risky |
+| Growth Potential | 🟢 Good |
+| FY2025–26 Performance | 🟢 Strong |
+| Q1 FY2026–27 | 🔴 Weak |
+| Cash Flow | 🟡 Improving |
+| Debt | 🟠 Needs attention |
+| Competition | 🟡 Challenging |
+| Valuation | 🟡 Reasonable |
+| Long-Term Potential | 🟢 Interesting |
+| Current Risk | 🟠 High |
+| **Final Decision** | **🟠 DON'T BUY** |
+
+---
+
+# Conclusion
+
+Kings Infra is an interesting small company with genuine long-term growth potential.
+
+FY2025–26 showed that the company can grow revenue and profit while maintaining healthy operating margins.
+
+However, the beginning of FY2026–27 has been weaker.
+
+At the same time, debt has increased substantially and cash generation still needs to improve.
+
+The large fall in the share price has made the valuation more reasonable, but I do not think the stock has become cheap enough to compensate for the current uncertainty.
+
+Therefore, my final decision is:
+
+> **🟠 DON'T BUY AT THE CURRENT PRICE.**
+
+I would keep Kings Infra on my long-term watchlist rather than completely rejecting the company.
+
+If the company proves that it can return to strong growth, control its debt and generate stronger cash flow, I would be willing to reconsider the investment.
+
+### In one sentence:
+
+> **Kings Infra has a promising long-term story, but I would wait for stronger evidence of sustainable growth, cash generation and debt control before becoming a shareholder.**
