@@ -621,18 +621,6 @@ But it needs to prove that the additional borrowing is being converted into high
 
 ---
 
-Therefore, I consider **debt and cash generation the biggest financial issues in the investment case**.
-
-The company does not necessarily have a debt problem today.
-
-But it needs to prove that the additional borrowing is being converted into higher and more sustainable profits.
-
-> **At the current market price, does the potential return justify the risks?**
-
-My final decision will be based on this comparison.
-
----
-
 # 6. Competition
 
 Kings Infra operates in a competitive seafood and aquaculture industry.
@@ -748,8 +736,6 @@ The current market valuation is therefore roughly in the **low-to-mid teens P/E 
 
 I do not consider this an extremely expensive valuation.
 
-However, I do not consider this an extremely expensive valuation.
-
 More importantly, after the significant fall in the share price, I believe the current valuation is reasonable relative to the company's long-term growth potential.
 
 However, the risks should not be ignored.
@@ -838,8 +824,6 @@ However, these risks are balanced by:
 - A more reasonable current valuation
 
 I would consider this a **long-term investment, not a short-term trade**.
-
-> **Final verdict: 🟢 BUY FOR THE LONG TERM**
 
 > **In one sentence: Kings Infra has meaningful long-term growth potential, and I believe the current valuation offers enough potential reward to justify the risks.**
 
