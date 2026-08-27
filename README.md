@@ -285,7 +285,6 @@ The company reported growth in revenue, operating profit and net profit compared
 | Revenue | ₹124.63 Cr | ₹162.15 Cr | +30.13% |
 | EBITDA | ₹24.35 Cr | ₹30.98 Cr | +27.22% |
 | Profit After Tax (PAT) | ₹13.15 Cr | ₹16.36 Cr | +24.41% |
-| Earnings Per Share (EPS) | ₹5.37 | ₹6.68 | +24.20% |
 
 **Note:** Figures are based on the company's reported FY2025–26 results.
 
