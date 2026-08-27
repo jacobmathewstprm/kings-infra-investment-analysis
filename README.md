@@ -97,6 +97,7 @@ Aquaculture is one of the company's core businesses.
 Kings Infra operates shrimp farms and also works with other aquaculture farmers through contract farming arrangements.
 
 ```
+
 Profitability depends on two important factors:
 
 **How much shrimp the company produces**
