@@ -96,16 +96,6 @@ Aquaculture is one of the company's core businesses.
 
 Kings Infra operates shrimp farms and also works with other aquaculture farmers through contract farming arrangements.
 
-The basic economics are simple:
-
-```text
-Shrimp Produced
-       ×
-Selling Price
-       -
-Farming Cost
-       =
-Profit
 ```
 Profitability depends on two important factors:
 
@@ -159,7 +149,7 @@ The platform is designed to help aquafarmers improve production, reduce costs an
 
 Kings Infra is also using SISTA360 protocols in its own aquaculture operations and providing training to aquafarmers.
 
-I see SISTA360 as a potential growth opportunity, but it is not yet a major part of my investment case compared with the company's core aquaculture, processing and export businesses.
+I see SISTA360 as a potential growth opportunity.
 
 ---
 
