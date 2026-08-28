@@ -24,7 +24,11 @@ The purpose of this project is to understand the company from an investor's poin
 
 **Research Date:** August 2026
 
-**Research Status:** Completed
+**Research Status:** Completed — based on information available as of August 2026
+
+---
+
+> **Disclaimer:** This is a personal investment research project for educational purposes. It is not investment advice or a recommendation to buy or sell securities. The analysis is based on publicly available information and represents my personal view as of the research date. Readers should do their own research and consider their own financial situation before making any investment decision.
 
 ---
 
